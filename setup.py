@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="jsonsecrets",
-    version="1.0.1",
+    version="1.0.2",
     author="Marco",
     author_email=None,
     description="Load your secrets (API keys etc.) from a JSON file.",
