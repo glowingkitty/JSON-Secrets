@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="jsonsecrets",
-    version="1.0.3",
+    version="1.0.4",
     author="Marco",
     author_email=None,
     description="Load your secrets (API keys etc.) from a JSON file.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/marcoEDU/JSON-Secrets",
+    url="https://github.com/glowingkitty/JSON-Secrets",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
